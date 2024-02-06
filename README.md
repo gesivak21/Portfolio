@@ -2,7 +2,7 @@
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | Vehicle Classification using Silhouette Features | [Vehicle Classify](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) |
-| 2 | Hotel Booking Cancellation Prediction | [:point_up_2:](https://github.com/gesivak21/Hotel-Booking-Cancellation-Prediction) |
+| 2 | Hotel Booking Cancellation Prediction | [:`:](https://github.com/gesivak21/Hotel-Booking-Cancellation-Prediction) |
 | 3 |  | [Vehicle Classify](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) |
 
 
