@@ -8,8 +8,3 @@
 | 5 | Signal Strength Detection | [:link:](https://github.com/gesivak21/Signal-Strength-Detection) |
 | 6 | Street View Housing Number Classifier | [:link:](https://github.com/gesivak21/Street-View-Housing-Number-Classifier) |
 
-# Hackathon
-| S.No. | Projects | Link |
-| --- | --- | --- |
-| 1 | Annual Turnover of Restaurant Prediction | [:link:](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) |
-
