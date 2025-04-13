@@ -9,4 +9,8 @@
 | 4 | Semiconductor Manufacturing Process - Classification (Pass/Fail) | [:link:](https://github.com/gesivak21/Semiconductor-Manufacturing-Process---Classification-Pass-Fail-) |
 | 5 | Wi-Fi Signal Strength Detection | [:link:](https://github.com/gesivak21/Signal-Strength-Detection) |
 | 6 | Street View Housing Number Classifier | [:link:](https://github.com/gesivak21/Street-View-Housing-Number-Classifier) |
-| 7 | German to English Machine Translation | [:link:](https://github.com/gesivak21/Machine-Translation) |
+## **2) Natural Language Projects**
+| S.No. | Projects | Link |
+| --- | --- | --- |
+| 1 | German to English Machine Translation | [:link:](https://github.com/gesivak21/Machine-Translation) |
+| 2 | Product Review Sentiment Analysis | [🔗] |
