@@ -1,6 +1,6 @@
 # Portfolio
 
-## **1) Machine Learning Projects**
+## **1) Machine Learning Processing Projects**
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | Vehicle Classification using Silhouette Features | [:link:](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) |
@@ -13,4 +13,9 @@
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | German to English Machine Translation | [:link:](https://github.com/gesivak21/Machine-Translation) |
-| 2 | Product Review Sentiment Analysis | [:link:](https://github.com/gesivak21/Product-review-sentiment-analysis/tree/main)|
+| 2 | Product Review Sentiment Analysis | [:link:](https://github.com/gesivak21/Product-review-sentiment-analysis/tree/main) |
+| 3 | News Article Categorization | [:link:](https://github.com/gesivak21/New-article-categorization) |
+| 4 | Movie Reviews Sentiment Analysis | [:link:](https://github.com/gesivak21/Movie-review-sentiment-analysis-) |
+
+
+
