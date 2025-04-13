@@ -13,4 +13,4 @@
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | German to English Machine Translation | [:link:](https://github.com/gesivak21/Machine-Translation) |
-| 2 | Product Review Sentiment Analysis | [🔗] |
+| 2 | Product Review Sentiment Analysis | [:link:](https://github.com/gesivak21/Product-review-sentiment-analysis/tree/main)|
