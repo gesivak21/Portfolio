@@ -1,6 +1,6 @@
 # Portfolio
 
-**1 Machine Learning Projects**
+# **1) Machine Learning Projects**
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | Vehicle Classification using Silhouette Features | [:link:](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) |
