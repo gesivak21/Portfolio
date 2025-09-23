@@ -1,6 +1,12 @@
 # Portfolio
 
-## **1) Machine Learning Processing Projects**
+## **1) Statistics**
+| S.No. | Projects | Link |
+| --- | --- | --- |
+|  |  | |
+
+
+## **2) Machine Learning Processing Projects**
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | Vehicle Classification using Silhouette Features | [:link:](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) |
@@ -9,7 +15,8 @@
 | 4 | Semiconductor Manufacturing Process - Classification (Pass/Fail) | [:link:](https://github.com/gesivak21/Semiconductor-Manufacturing-Process---Classification-Pass-Fail-) |
 | 5 | Wi-Fi Signal Strength Detection | [:link:](https://github.com/gesivak21/Signal-Strength-Detection) |
 | 6 | Street View Housing Number Classifier | [:link:](https://github.com/gesivak21/Street-View-Housing-Number-Classifier) |
-## **2) Natural Language Projects**
+
+## **3) Natural Language Projects**
 | S.No. | Projects | Link |
 | --- | --- | --- |
 | 1 | German to English Machine Translation | [:link:](https://github.com/gesivak21/Machine-Translation) |
