@@ -85,7 +85,7 @@ Statistical foundations and inferential methods that support machine learning an
 **Databases:** MySQL, PostgreSQL, FAISS  
 **Cloud & DevOps:** GCP, Azure AI, Git  
 
-**Core Skills:** LLMs • RAG • LangChain • NLP • Vector Databases • Machine Learning • AI Agents • Generative AI • MLOps  
+**Core Skills:** LLMs • RAG • LangChain • NLP • Vector Databases • Machine Learning • AI Agents • Generative AI
 
 ---
 
