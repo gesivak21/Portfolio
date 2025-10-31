@@ -45,7 +45,7 @@ Supervised and unsupervised learning projects across **classification, predictio
 
 | S.No. | Project | Link | Demo |
 |:---:|:-----------------------------------------|:---:|:---:|
-| 1 | Vehicle Classification using Silhouette Features | [:link:](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) | [:globe_with_meridians:]([https://vehicle-classification.streamlit.app](https://vehicle-classification-demo.streamlit.app/)) |
+| 1 | Vehicle Classification using Silhouette Features | [:link:](https://github.com/gesivak21/Vehicle-Classification-using-Silhouette-Features) | [:globe_with_meridians:](https://vehicle-classification-demo.streamlit.app/) |
 | 2 | Telecommunication Company: Churn or Not | [:link:](https://github.com/gesivak21/Telecommunication-Company---Churn-or-not) | - |
 | 3 | Semiconductor Manufacturing Process – Classification (Pass/Fail) | [:link:](https://github.com/gesivak21/Semiconductor-Manufacturing-Process---Classification-Pass-Fail-) | - |
 | 4 | Wi-Fi Signal Strength Detection | [:link:](https://github.com/gesivak21/Signal-Strength-Detection) | - |
