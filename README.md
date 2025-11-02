@@ -29,14 +29,14 @@ My expertise lies in:
 ## 🧩 **1) Generative AI & Advanced Projects**
 Projects focused on **LLMs, RAG systems, and intelligent automation**, demonstrating how large language models can drive real-world applications.
 
-| S.No. | Project | Demo / Repo |
-|:---:|:-----------------------------------------|:---:|
-| 1 | Prior Authorization for Prescribed Medication | [:link:](https://gesivak21.github.io/MyPortfolio/projects/demo.html) |
-| 2 | Voice Assistant Chatbot | [:link:](https://gesivak21.github.io/MyPortfolio/projects/voice-assistant-demo.html) |
-| 3 | Smart Database AI Assistant | [:link:](https://gesivak21.github.io/MyPortfolio/projects/smart-db-ai-demo.html) |
-| 4 | PDF Document Summarizer | [:link:](https://gesivak21.github.io/MyPortfolio/projects/pdf-summarizer-demo.html) |
-| 5 | Meeting Summarizer AI | [:link:](https://gesivak21.github.io/MyPortfolio/projects/meeting-summarizer-demo.html) |
-| 6 | Finance Compliance – SDN Checker | [:link:](https://gesivak21.github.io/MyPortfolio/projects/finance-compliance-demo.html) |
+| S.No. | Project | Repo | Video Demo |
+|:---:|:-----------------------------------------------|:---:|:---:|
+| 1 | **Smart Azure Document Extraction App** | [:octocat:](https://github.com/gesivak21/Document-Extraction) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/azure-document-demo.html) |
+| 2 | **Prior Authorization for Prescribed Medication** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/demo.html) |
+| 3 | **Smart Database AI Assistant** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/smart-db-ai-demo.html) |
+| 4 | **PDF Document Summarizer – Orchestrator Supervisor Model** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/pdf-summarizer-demo.html) |
+| 5 | **Meeting Summarizer AI** | [:octocat:](https://github.com/gesivak21/meeting-summarizer-ai) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/meeting-summarizer-demo.html) |
+| 6 | **Finance Compliance – SDN Checker (RAG-based)** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/finance-compliance-demo.html) |
 
 ---
 
