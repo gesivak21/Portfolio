@@ -32,7 +32,7 @@ Projects focused on **LLMs, RAG systems, and intelligent automation**, demonstra
 | S.No. | Project | Repo | Video Demo |
 |:---:|:-----------------------------------------------|:---:|:---:|
 | 1 | **Smart Azure Document Extraction App** | [:octocat:](https://github.com/gesivak21/Document-Extraction) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/azure-document-demo.html) |
-| 2 | **Prior Authorization for Prescribed Medication** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/demo.html) |
+| 2 | **Prior Authorization for Prescribed Medication** | [:octocat:](https://github.com/gesivak21/prior-auth-agent) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/demo.html) · [:rocket:](https://prior-authorization-agent.onrender.com/settings) |
 | 3 | **Smart Database AI Assistant** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/smart-db-ai-demo.html) |
 | 4 | **PDF Document Summarizer – Orchestrator Supervisor Model** | [:octocat:](https://github.com/gesivak21/Portfolio) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/pdf-summarizer-demo.html) |
 | 5 | **Meeting Summarizer AI** | [:octocat:](https://github.com/gesivak21/meeting-summarizer-ai) | [:link:](https://gesivak21.github.io/MyPortfolio/projects/meeting-summarizer-demo.html) |
