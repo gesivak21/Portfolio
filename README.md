@@ -20,9 +20,9 @@ My expertise lies in:
 
 | Project | Description | Link |
 |:--|:--|:--|
-| 🩺 **Prior Authorization for Prescribed Medication** | LLM-powered workflow automation for healthcare claims processing | [:link:](https://gesivak21.github.io/MyPortfolio/projects/demo.html) |
+| 🩺 **Prior Authorization for Prescribed Medication** | LLM-powered workflow automation for healthcare claims processing | [:link:](https://prior-authorization-agent.onrender.com/) |
 | 🧠 **Smart Database AI Assistant** | Conversational interface for SQL databases using LangChain + RAG | [:link:](https://gesivak21.github.io/MyPortfolio/projects/smart-db-ai-demo.html) |
-| 📄 **PDF Document Summarizer** | Summarizes large PDFs using embeddings and GPT-based context retrieval | [:link:](https://gesivak21.github.io/MyPortfolio/projects/pdf-summarizer-demo.html) |
+| 📄 **AI Utility Suite** | Summarizes audio, video, and bulk documents, and enables natural-language Q&A across uploaded files | [:link:](https://ai-utility-suite-754273589848.us-central1.run.app/) |
 
 ---
 
