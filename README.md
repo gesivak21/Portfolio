@@ -101,7 +101,12 @@ Statistical foundations and inferential methods that support machine learning an
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-0A0A0A?logo=apachearrow&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=microsoftazure&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B7280)
 
 ---
 
