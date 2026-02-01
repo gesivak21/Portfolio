@@ -92,24 +92,35 @@ Statistical foundations and inferential methods that support machine learning an
 
 ## 🧱 **Tools & Framework Badges**
 
+### 🧠 Core Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
 ### 🤖 LLM Providers
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-111827?logo=anthropic&logoColor=white)
+
+### 🧠 ML / DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+### 🧭 Vector Databases & Search
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white)
 ![LanceDB](https://img.shields.io/badge/LanceDB-0A0A0A?logo=apachearrow&logoColor=white)
 ![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?logo=microsoftazure&logoColor=white)
+
+### ☁️ Cloud & Infra
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=microsoftazure&logoColor=white)
+
+### 🔌 Protocols
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B7280)
 
 ---
